@@ -19,4 +19,7 @@
   background-color: rgb(241, 230, 214);
   box-shadow: 0 0 10px rgb(223, 200, 171);
   margin: 10px 0;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: justify;
 }
