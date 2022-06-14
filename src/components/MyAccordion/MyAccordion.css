@@ -1,0 +1,21 @@
+.MyAccordion-quesDiv {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+.MyAccordion-quesDiv p {
+  background-color: rgb(197, 223, 223);
+  border-radius: 50%;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+.MyAccordion-quesDiv h3 {
+  margin: 10px;
+  padding: 10px;
+  box-shadow: 0 0 5px black;
+}
+.MyAccordion-p {
+  padding: 5px 50px;
+  background-color: rgb(241, 230, 214);
+  box-shadow: 0 0 10px rgb(223, 200, 171);
+}

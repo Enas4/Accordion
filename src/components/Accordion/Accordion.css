@@ -1,0 +1,7 @@
+section {
+  border-radius: 5px;
+  padding: 20px;
+  max-width: 500px;
+  background-color: rgb(250, 246, 246);
+  box-shadow: 0 0 10px salmon;
+}
